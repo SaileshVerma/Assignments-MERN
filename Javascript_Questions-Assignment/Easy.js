@@ -16,13 +16,13 @@ let charCount = function(letter, str){
     return count;
 }
 
-result = charCount('a', 'Be yourself; everyone else is already taken.');
+result = charCount('a', 'Be yourself  ; everyone else  already taken up.');
 console.log(`${result}`);
 
 result = charCount('b', 'Be brave to stand for what you believe in even if you stand alone.');
 console.log(`${result}`);
 
-console.log('\nQ2 - Add up the Numbers from a Single Number\n\n');
+console.log('\nQ2 - Add up the Numbers from the Single Number\n\n');
 
 /* Create a function that takes a number as an argument. Add up all the numbers from 1 to the number
 you passed to the function. For example, if the input is 4 then your function should return 10 because 1
@@ -39,7 +39,7 @@ console.log(addUp(8));
 console.log(addUp(14));  
 console.log(addUp(135));
 
-console.log('\nQ3 - Replace Vowel with Another Character\n\n');
+console.log('\nQ3 - Replace Vowel with an Another Character\n\n');
 
 /* Create a function that takes a string and replaces the vowels with another character.
 a = 1, e = 2, i = 3, o = 4, u = 5 */
